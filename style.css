@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.body{
+    background-image: url("./image/pexels-johannes-plenio-1103970.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-index{
+ border-radius: 15px;
+
+
+}
+.btn :hover{
+ background-color: #fff;
+ color:#0d6efd
+}
+.icon{
+    font-size: 30px;
+}
+.btn-primary{
+    border-radius: 15px;
+}
+.btn-danger{
+    border-radius: 15px;
+    
+}
+.btn-danger:hover{
+    background-color: #fff;
+    color: #dc3545;
+    transition: .5s;
+
+}
+
+.form-label{
+    border-radius: 15px;
+}
+.btn-primary:hover{
+    background-color: #fff;
+    color: #0d6efd;
+    transition: .5s;
+}
+.container-index:hover{
+   background-color: #fff;
+    color: #0d6efd;
+    transition: .5s;
+}
+#pwd{
+    margin-top: 10px;
+   
+}
+#email{
+margin-top: 10px ;
+ margin-bottom: 20px;
+}
+.btn-second{
+    border-radius: 15px;
+    background-color: #198754;
+    color: #fff;
+}
+.btn-second:hover{
+    background-color:#0e5534;
+    color:#fff;
+}
+.card{
+    border-radius: 10px;
+
+}
